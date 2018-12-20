@@ -1,8 +1,8 @@
 class Heimdallr < Formula
   desc "Finding public ssh keys with ease"
   homepage "https://github.com/AiyionPrime/heimdallr"
-  url "https://github.com/AiyionPrime/heimdallr/archive/v1.0.1.tar.gz"
-  sha256 "94141b11d3f957189d6c483b92db942b3c7eabc003e8b145c940f032923dd11e"
+  url "https://github.com/AiyionPrime/heimdallr/archive/v1.0.3.tar.gz"
+  sha256 "b13798e4e7cae06b93829532d94337487416ec4b7dbf7d79a6bdb1077b8cedbf"
   depends_on "json-c"
   depends_on "libssh"
   depends_on "openssl"
